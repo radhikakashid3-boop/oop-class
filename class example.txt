@@ -1,0 +1,50 @@
+1)
+class vegitable:
+    name
+    color
+    type
+
+    def wash()
+    def cut()
+    def cook()
+
+2)
+class music:
+     music_name
+     music_type
+     singer_name
+
+     def play()
+     def volume()
+     def stop()
+
+3)
+class shop:
+      shop_name
+      shop_address
+      product
+     
+      def open()
+      def sell_product()
+      def check_stock()
+
+4)
+class hostel:
+      hostel_name
+      rent
+      total_room
+   
+      def allocate_room()
+      def collect_rent()
+      def provide_food()
+
+5)
+class Bird:
+      bird_name
+      bird color
+      
+
+      def fly()
+      def eat()
+      def sing()
+       
